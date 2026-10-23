@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+<rect width="1000" height="360" rx="18" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="1000" height="48" rx="18" fill="#161b22"/>
+<circle cx="25" cy="24" r="6" fill="#f87171"/><circle cx="45" cy="24" r="6" fill="#fbbf24"/><circle cx="65" cy="24" r="6" fill="#4ade80"/>
+<text x="88" y="30" fill="#8b949e" font-family="monospace" font-size="14">arpit@github: ~/developer</text>
+<g font-family="monospace" font-size="17">
+<text x="42" y="88" fill="#38bdf8">$ whoami</text>
+<text x="42" y="116" fill="#e6edf3">Arpit Bhardwaj</text>
+<text x="42" y="154" fill="#38bdf8">$ focus --current</text>
+<text x="42" y="182" fill="#e6edf3">Backend + Data + AI</text>
+<text x="42" y="220" fill="#38bdf8">$ stack</text>
+<text x="42" y="248" fill="#e6edf3">Python | FastAPI | PostgreSQL | SQL | ML | NLP</text>
+<text x="42" y="286" fill="#38bdf8">$ learning</text>
+<text x="42" y="314" fill="#e6edf3">Linux | Docker | Cloud | DevOps | LLMs</text>
+</g>
+</svg>
